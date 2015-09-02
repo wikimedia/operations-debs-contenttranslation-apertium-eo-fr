@@ -1,0 +1,8 @@
+apertium-eo-fr (0.9.0~r28336-1) trusty; urgency=low
+
+  [ Tino Didriksen ]
+  * Initial release
+  * Significant changes in svn since tarball, so mixing new build scripts with
+    old data files
+
+ -- Kartik Mistry <kartik@debian.org>  Wed, 02 Sep 2015 11:23:40 +0530
