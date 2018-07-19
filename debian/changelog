@@ -1,3 +1,10 @@
+apertium-eo-fr (0.9.0~r57551-2+wmf1) jessie-wikimedia; urgency=low
+
+  * debian/rules:
+    + Do not use parallel build to avoid FTBFS.
+
+ -- Kartik Mistry <kartik@debian.org>  Thu, 19 Jul 2018 10:21:01 +0530
+
 apertium-eo-fr (0.9.0~r57551-1) jessie-wikimedia; urgency=low
 
   * New upstream release.
